@@ -6,7 +6,7 @@
 # quotes Strings are immutable, meaning they cannot be changed after creation
 
 
-intro = "my name is mohd hannan and my friend is w"
+intro = "my name is mohd hannan and my friend is abc"
 print(intro.find('my'))
 print(intro.count('rehan'))
 print(intro.upper().lower())
