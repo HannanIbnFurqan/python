@@ -32,7 +32,7 @@ print(my_tuple[2:5])  # Output: (3, 4, 5)
 print(my_tuple[::2])  # Output: (1, 3, 5, 7) (Every 2nd element)
 
 
-# Slicing with step
+# Slicing with step in python
 
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
